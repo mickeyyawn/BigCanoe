@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">BigCanoe</string>
-
-    <string name="hello_world">Hello world!</string>
+    <string name="app_label">Big Canoe</string>
     <string name="action_settings">Settings</string>
 </resources>
